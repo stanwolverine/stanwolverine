@@ -94,6 +94,7 @@ Self-taught developer with 5 years of experience in developing mobile and web ap
 
 ### My Top Repositories
 
+#### React Native
 <div width="100%" align="center">
   <a href="https://github.com/stanwolverine/100-exercises-to-learn-rust" target="_blank" rel="noreferrer" align="left">
     <picture>
@@ -112,6 +113,7 @@ Self-taught developer with 5 years of experience in developing mobile and web ap
   </a>
 </div>
 
+#### Rust
 <br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center">
