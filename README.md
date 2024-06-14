@@ -1,20 +1,10 @@
-### Hi there 👋
+<!-- ![](https://komarev.com/ghpvc/?username=stanwolverine&color=blue) -->
 
+# Jatin Nagar
+Mobile Engineer - React Native, iOS, Android
 
-
-![](https://komarev.com/ghpvc/?username=stanwolverine&color=blue)
-
-<!--
-**stanwolverine/stanwolverine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [100ms React Native SDK](github.com/100mslive/react-native-hms)
+- 🌱 I’m currently learning Rust language
+- 💬 Ask me about React Native
+- 📫 How to reach me: [jitu19nagar@gmail.com](mailto:jitu19nagar@gmail.com) | x.com/stanwolverine
+- ⚡ Fun fact: I am self taught
