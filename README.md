@@ -1,17 +1,14 @@
-<!-- ![](https://komarev.com/ghpvc/?username=stanwolverine&color=blue) -->
-
 # Jatin Nagar 👋
 
 ## Mobile Engineer - React Native, iOS, Android
 
-kbkfvffsv
+Self-taught developer with 5 years of experience in developing mobile and web apps with React Native and React Js. I am continuously learning to excel in App development and Rust programming.
 
 - 🌍 I'm based in Delhi, India
 - 🔭 I’m currently working on [100ms React Native SDK](https://github.com/100mslive/react-native-hms)
 - 🌱 I’m currently learning Rust language
 - 💬 Ask me about React Native
 - 📫 How to reach me: [jitu19nagar@gmail.com](mailto:jitu19nagar@gmail.com) | [x.com/stanwolverine](https://x.com/stanwolverine)
-- ⚡ Fun fact: I am self taught
 
 ### Skills
 
@@ -29,7 +26,11 @@ kbkfvffsv
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
   </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" />
+    </picture>
   </a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" />
@@ -38,10 +39,10 @@ kbkfvffsv
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" />
   </a>
   <a href="https://www.xcode.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" width="36" height="36" alt="XCode" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
@@ -81,16 +82,56 @@ kbkfvffsv
   </a>
 </p>
 
-### Badges
+### My GitHub Stats
 
-<b>My GitHub Stats</b>
+<a href="http://www.github.com/stanwolverine">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=stanwolverine&stroke=c9d1d9&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=stanwolverine&stroke=24292e&background=ffffff&ring=0366d6&fire=0366d6&currStreakNum=24292e&currStreakLabel=0366d6&sideNums=24292e&sideLabels=24292e&dates=24292e&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=stanwolverine&stroke=24292e&background=ffffff&ring=0366d6&fire=0366d6&currStreakNum=24292e&currStreakLabel=0366d6&sideNums=24292e&sideLabels=24292e&dates=24292e&hide_border=true" />
+  </picture>
+</a>
 
-<a href="http://www.github.com/stanwolverine"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stanwolverine&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### My Top Repositories
 
-<b>Top Repositories</b>
+<div width="100%" align="center">
+  <a href="https://github.com/stanwolverine/100-exercises-to-learn-rust" target="_blank" rel="noreferrer" align="left">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=100-exercises-to-learn-rust&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&locale=en" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=100-exercises-to-learn-rust&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=true&locale=en" />
+      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=100-exercises-to-learn-rust&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=true&locale=en" />
+    </picture>
+  </a>
 
-<div width="100%" align="center"><a href="https://github.com/stanwolverine/100-exercises-to-learn-rust" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=100-exercises-to-learn-rust&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/stanwolverine/react-native" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=react-native&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+  <a href="https://github.com/stanwolverine/react-native" target="_blank" rel="noreferrer" align="right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=react-native&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&locale=en" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=react-native&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=true&locale=en" />
+      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=react-native&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=true&locale=en" />
+    </picture>
+  </a>
+</div>
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/stanwolverine/CalendarApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=CalendarApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/stanwolverine/rnhms-callkeep-demo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=rnhms-callkeep-demo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/stanwolverine/CalendarApp" target="_blank" rel="noreferrer" align="left">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=CalendarApp&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&locale=en" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=CalendarApp&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=true&locale=en" />
+      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=CalendarApp&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=true&locale=en" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/stanwolverine/rnhms-callkeep-demo" target="_blank" rel="noreferrer" align="right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=rnhms-callkeep-demo&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&locale=en" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=rnhms-callkeep-demo&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=true&locale=en" />
+      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=rnhms-callkeep-demo&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=true&locale=en" />
+    </picture>
+  </a>
+</div>
+
+
+
+
