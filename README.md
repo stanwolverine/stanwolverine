@@ -118,9 +118,9 @@ Self-taught developer with 5 years of experience in developing mobile and web ap
 <div width="100%" align="center">
   <a href="https://github.com/stanwolverine/rnhms-callkeep-demo" target="_blank" rel="noreferrer" align="left">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=rnhms-callkeep-demo&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=rnhms-callkeep-demo&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en" />
-      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=rnhms-callkeep-demo&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=rnhms-callkeep-demo&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en#1" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=rnhms-callkeep-demo&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en#1" />
+      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=rnhms-callkeep-demo&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en#1" />
     </picture>
   </a>
 
@@ -138,17 +138,17 @@ Self-taught developer with 5 years of experience in developing mobile and web ap
 <div width="100%" align="center">
   <a href="https://github.com/stanwolverine/CalendarApp" target="_blank" rel="noreferrer" align="left">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=CalendarApp&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=CalendarApp&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en" />
-      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=CalendarApp&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=CalendarApp&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en#1" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=CalendarApp&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en#1" />
+      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=CalendarApp&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en#1" />
     </picture>
   </a>
 
   <a href="https://github.com/stanwolverine/PendingOrders" target="_blank" rel="noreferrer" align="right">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=PendingOrders&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=PendingOrders&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en" />
-      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=PendingOrders&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=PendingOrders&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en#1" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=PendingOrders&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en#1" />
+      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=PendingOrders&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en#1" />
     </picture>
   </a>
 </div>
@@ -158,9 +158,9 @@ Self-taught developer with 5 years of experience in developing mobile and web ap
 <div width="100%" align="center">
   <a href="https://github.com/stanwolverine/github-explorer-app" target="_blank" rel="noreferrer" align="left">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=github-explorer-app&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=github-explorer-app&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en" />
-      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=github-explorer-app&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=github-explorer-app&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en#1" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=github-explorer-app&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en#1" />
+      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=github-explorer-app&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en#1" />
     </picture>
   </a>
 
@@ -179,9 +179,9 @@ Self-taught developer with 5 years of experience in developing mobile and web ap
 <div width="100%" align="center">
   <a href="https://github.com/stanwolverine/eth-wallet-app" target="_blank" rel="noreferrer" align="left">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=eth-wallet-app&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=eth-wallet-app&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en" />
-      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=eth-wallet-app&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=eth-wallet-app&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=false&border_color=30363d&locale=en#1" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=eth-wallet-app&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en#1" />
+      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=stanwolverine&repo=eth-wallet-app&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff&hide_border=false&border_color=e1e4e8&locale=en#1" />
     </picture>
   </a>
 </div>
