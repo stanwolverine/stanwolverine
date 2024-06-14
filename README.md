@@ -113,8 +113,8 @@ Self-taught developer with 5 years of experience in developing mobile and web ap
   </a>
 </div>
 
-#### Rust
 <br /><br /><br /><br /><br /><br /><br />
+#### Rust
 
 <div width="100%" align="center">
   <a href="https://github.com/stanwolverine/CalendarApp" target="_blank" rel="noreferrer" align="left">
