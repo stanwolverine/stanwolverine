@@ -10,6 +10,8 @@ Self-taught developer with 5 years of experience in developing mobile and web ap
 - 💬 Ask me about React Native
 - 📫 How to reach me: [jitu19nagar@gmail.com](mailto:jitu19nagar@gmail.com) | [x.com/stanwolverine](https://x.com/stanwolverine)
 
+- 📄 My Resume/CV: [files.nagar.io/resume.pdf](https://files.nagar.io/resume.pdf)
+
 ### Skills
 
 <p align="left">
